@@ -1,0 +1,10 @@
+show animation of players falling inside 
+- characters, they will change their size into very small and then show them falling into the old fasioned music player
+
+gears obstacles 
+- the gears will turn and the players need to jump over them and as the level goes on, more obstacles will appear from above making the player need to duck. 
+
+- there will be more obstacles above to collect to help get the treasure faster.
+
+treasure
+- once a certain score is achieved, the treasure will be shown and the players have to collect it
